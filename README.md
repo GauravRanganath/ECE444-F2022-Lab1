@@ -1,3 +1,7 @@
 Gaurav Ranganath
 
-![Commit Screenshot](/commit_screenshot.jpg "Commit Screenshot")
+### Gaurav Ranganath ###
+
+### Activity 1 ###
+
+![Commit Screenshot](/activity_1.jpg "Commit Screenshot")

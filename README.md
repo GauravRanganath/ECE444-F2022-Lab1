@@ -14,7 +14,11 @@
 
 ### Activity 4 ###
 
-![Commit Screenshot](/activity_4.jpg "Commit Screenshot")
+## Eric Committing to My Repo ##
+![Commit Screenshot](/activity_4_1.jpg "Commit Screenshot")
+
+## Me Committing to Eric's Repo ##
+![Commit Screenshot](/activity_4_2.jpg "Commit Screenshot")
 
 ### Activity 5 ###
 
@@ -23,6 +27,14 @@
 
 ### Activity 6 ###
 
+https://github.com/GauravRanganath/ECE444-F2022-EP
+
 ### Activity 7 ###
 
+![Commit Screenshot](/activity_7_1.jpg "Commit Screenshot")
+![Commit Screenshot](/activity_7_2.jpg "Commit Screenshot")
+
 ### Activity 8 ###
+
+![Commit Screenshot](/activity_8_1.jpg "Commit Screenshot")
+![Commit Screenshot](/activity_8_2.jpg "Commit Screenshot")
